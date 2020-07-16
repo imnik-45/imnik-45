@@ -1,6 +1,6 @@
 ### Hi there, I am Nikhil.👋
 
-[![HitCount](http://hits.dwyl.com/imnik-45/imnik-45.svg)](http://hits.dwyl.com/imnik-45/imnik-45)
+
 <!--
 **imnik-45/imnik-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
