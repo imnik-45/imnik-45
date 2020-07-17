@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
+##🙋🏽‍About Me
 
-I am a Web Developer and UI designer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter, Languages like C++, C,Java and the sport of Competitive Programming. My hobby is Playing Chess as I enjoy the modern way of saying Screw You; 
+I am a Web Developer and UI designer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java. My hobby is Playing Chess as I enjoy the modern way of saying Screw You; 
+Some of the technologies I enjoy working with include NodeJS, Angular, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma. 
+
+
+👨🏽‍💻Tech Stack
+
+
+                                       
