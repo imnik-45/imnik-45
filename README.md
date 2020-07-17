@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 🔭 I’m currently working on Angular
- 🌱 I’m currently learning UI Design.
+## About Me
+
+I am a Web Developer and UI designer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities. Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, Android or IOS development and the sport of Competitive Programming. My hobby is Playing Chess as I enjoy the modern way of saying Screw You; 
