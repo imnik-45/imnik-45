@@ -20,7 +20,6 @@ I am a Web Developer and UI designer who is very enthusiastic about learning new
 Some of the technologies I enjoy working with include NodeJS, Angular, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma. 
 
 
-<-- 🏽‍💻Tech Stack -->
 
 
                                        
