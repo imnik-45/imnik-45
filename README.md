@@ -22,7 +22,7 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
+## ⚡ My Stats 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,typescript&theme=tokyonight">
