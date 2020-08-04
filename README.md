@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 > Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java.<br /> 
 > Some of the technologies I enjoy working with include NodeJS, Angular, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma. <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnik-45&count_private=true&show_icons=true&theme=monokai)](https://github.com/imnik-45/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&show_icons=true&theme=radical)](https://github.com/imnik-45/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnik-45&count_private=true&show_icons=true&theme=monokai)](https://github.com/imnik-45/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&show_icons=true&theme=radical&hide=html)](https://github.com/imnik-45/github-readme-stats)
