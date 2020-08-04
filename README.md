@@ -26,8 +26,9 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
 ![Flutter](https://img.shields.io/badge/-Flutter-563D7C?style=flat-square&logo=Flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma)
-![Msoffice](https://img.shields.io/badge/-Msoffice-black?style=flat-square&logo=Msoffice)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-Blue?style=flat-square&logo=Expressjs)
+![Msoffice](https://img.shields.io/badge/-Msoffice-black?style=flat-square&logo=Msoffice)
 ## ⚡ My Stats 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
