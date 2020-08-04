@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 > I am a Web Developer and UI designer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for  developer communities. <br />
 > Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java.<br /> 
 > Some of the technologies I enjoy working with include NodeJS, Angular, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma. <br />
+-->
+I am Nikhil! I am a web developer who is passionate about web dev stuffs. Few tech that I enjoy working in, are Nodejs, C++, Javascript, and  flutter. Also, I have just started UI/UX designing!I love Content Writing. 
+
+- 👨🏽‍💻 Current work in NodeJs.
+- 🤝 Open for collaborations in Nodejs, Javascript and UI/UX Design .
+- 🌱 I’m currently learning UI Design.
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,typescript&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html&theme=tokyonight">
 </p>
