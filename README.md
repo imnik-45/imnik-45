@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnik-45&count_private=true&show_icons=true&theme=monokai)](https://github.com/imnik-45/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45)](https://github.com/imnik-45/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&theme=radical)](https://github.com/imnik-45/github-readme-stats)
