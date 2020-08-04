@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 > I am a Web Developer and UI designer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for  developer communities. <br />
 > Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java.<br /> 
 > Some of the technologies I enjoy working with include NodeJS, Angular, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma. <br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imnik-45)](https://github.com/anuraghazra/github-readme-stats)
