@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 > Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java.<br /> 
 > Some of the technologies I enjoy working with include NodeJS, Angular, MongoDB, other JS frameworks and UI/UX samples and prototypes using Figma. <br />
 -->
-I am Nikhil! I am a web developer who is passionate about web dev stuffs. Few tech that I enjoy working in, are Nodejs, C++, Javascript, and  flutter. Also, I have just started UI/UX designing!I love Content Writing. 
+I am a web developer who is passionate about web dev stuffs.Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java. Few tech that I enjoy working in, are Nodejs, C++, Javascript, and  flutter. Also, I have just started UI/UX designing!I love Content Writing. 
 
 - 👨🏽‍💻 Current work in NodeJs.
 - 🤝 Open for collaborations in Nodejs, Javascript and UI/UX Design .
