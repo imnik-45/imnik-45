@@ -35,7 +35,11 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,typescript&theme=tokyonight">
 </p>
 <br>
-<center><img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="100" height="100" style="align:center"></center>
+<p align="center">
+  <img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="100" height="100" style="align:center">
+  <br><br>
+</p
+
 
 <!--
 **imnik-45/imnik-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
