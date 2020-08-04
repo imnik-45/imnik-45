@@ -23,6 +23,8 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ## ⚡ My Stats 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
