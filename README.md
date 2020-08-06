@@ -7,7 +7,7 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
 
 - 👨🏽‍💻 Current work in NodeJs.
 - 🤝 Open for collaborations in Nodejs, Javascript and UI/UX Design .
-- 🌱 I’m currently learning UI Design.
+- 🌱 I’m currently learning UI Design and other stuff.
 
 ## ⚡ Technologies 
 
