@@ -35,25 +35,17 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,typescript&theme=tokyonight">
 </p>
 <br>
-<p align="center">
-  <img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="100" height="100" style="align:center">
-  <br><br>
-</p>
-  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="100" height="100" style="align:center">
-  <br><br>
-</p>
-  
- <p align="center">
- <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" height="200" style="align:center">
- </p>
+## ⚡ Me While Coding
+<p>
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" height="200" style="align:left">
+    
+    <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200" height="200" style="align:center">
+    <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200" style="align:center">
+    
+  <img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="200" height="200" style="align:right">
  
-  <p align="center">
- <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200" height="200" style="align:center">
- </p>
-
+  <br><br>
+</p>
 
 <!--
 **imnik-45/imnik-45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
