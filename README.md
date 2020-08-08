@@ -44,6 +44,14 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
   <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="100" height="100" style="align:center">
   <br><br>
 </p
+  
+ <p align="center">
+ <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" height="200" style="align:center">
+ </p>
+ 
+  <p align="center">
+ <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200" height="200" style="align:center">
+ </p>
 
 
 <!--
