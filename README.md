@@ -39,14 +39,19 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
 
 <p>
    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" height="200" style="align:left">
+</p>
  
+<p>
    <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200" height="200" style="align:center" >
-    
-   <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200" style="align:center">
-    
-   <img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="200" height="200" style="align:right">
+</p>  
  
-  <br><br>
+ <p>
+   <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200" style="align:center">
+ </p> 
+  
+ <p>
+   <img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="200" height="200" style="align:right">
+
 </p>
 
 <!--
