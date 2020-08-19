@@ -48,7 +48,7 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
   <img src="https://media.giphy.com/media/ue5ZwFCaxy64M/giphy.gif" width="200" height="200" style="align:left">
   <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="200" height="200" style="align:left">  
    <img src="https://media.giphy.com/media/ATrQGGfay8ptS/giphy.gif" width="200" height="200" style="align:center">
-   <img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="200" height="200" style="align:right">
+   <img src="https://user-images.githubusercontent.com/51753810/90593608-fa48a480-e205-11ea-9d69-3a5bc29db8d9.gif" width="200" height="200" style="align:right">
 </p>
 
 <!--
