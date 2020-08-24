@@ -38,7 +38,7 @@ I am a web developer who is passionate about web dev stuffs.Currently pursuing C
 ## ⚡ My Stats 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,c%2B%2B&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,c%2B%2B,typescript&theme=tokyonight">
 </p>
 <br>
 
