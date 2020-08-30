@@ -3,9 +3,7 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/imnick_45)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikhilsingh98/)    
 I am a web developer who is passionate about web dev stuffs.Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java. Few tech that I enjoy working in, are Nodejs, C++, Javascript, and  flutter. Also, I have just started UI/UX designing!I love Content Writing. 
-<p align="center">
-<img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="100" height="100" style="align:center">
-</p>
+
 
 - 👨🏽‍💻 Current work in NodeJs.
 - 🤝 Open for collaborations in Nodejs, Javascript and UI/UX Design .
@@ -66,7 +64,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-
+<p align="center">
+<img src="https://media.giphy.com/media/MZLcHHecjoAfvq5mDL/giphy.gif" width="100" height="100" style="align:center">
+</p>
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/username/)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 > I am a Web Developer and UI designer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for  developer communities. <br />
