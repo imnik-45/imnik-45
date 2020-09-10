@@ -2,11 +2,17 @@
 ![Hello, my name is Nikhil Web Developer   UI_UX designer](https://user-images.githubusercontent.com/51753810/89323998-31667400-d6a4-11ea-9282-0d20d22c067f.png)
 
 
-[<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="35px"/>](https://twitter.com/imnick_45)   [<img  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="35px">](https://www.linkedin.com/in/nikhilsingh98/)  
+<div align="center">
 
-<br>
+[<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="35px"/>](https://twitter.com/imnick_45)
+[<img  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="35px"/>](https://www.linkedin.com/in/nikhilsingh98/)
+[<img  src="https://avatars3.githubusercontent.com/u/1545643?s=200&v=4" width="35px"/>](https://codepen.io/imnik-45)
 
-I am a web developer who is passionate about web dev stuffs.Currently pursuing Computer Science and Engineering. I explore all fields of Computer Science, be it Web Development, UI Design, Flutter and the sport of Programming in C, C++, Java. Few tech that I enjoy working in, are Nodejs, C++, Javascript, and  flutter. Also, I have just started UI/UX designing!I love Content Writing. 
+</div>
+
+
+<br> <br>
+
 
 ## ⚡ Technologies 
 
