@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="35px"/>](https://twitter.com/imnick_45)
+
 [<img  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="35px"/>](https://www.linkedin.com/in/nikhilsingh98/)
 [<img  src="https://avatars3.githubusercontent.com/u/1545643?s=200&v=4" width="35px"/>](https://codepen.io/imnik-45)
 
