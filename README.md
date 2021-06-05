@@ -42,12 +42,3 @@
 </p>
 
 <br>
-
-##  ⚡  Me While Coding
-
-<p>
-  <img src="https://media.giphy.com/media/ue5ZwFCaxy64M/giphy.gif" width="200" height="200" style="align:left">
-  <img src="https://media.giphy.com/media/XGqDsE3owV0RO/giphy.gif" width="200" height="200" style="align:left">  
-  <img src="https://media.giphy.com/media/ATrQGGfay8ptS/giphy.gif" width="200" height="200" style="align:center">
-  <img src="https://user-images.githubusercontent.com/51753810/90593608-fa48a480-e205-11ea-9d69-3a5bc29db8d9.gif" width="200" height="200" style="align:right">
-</p>
