@@ -38,7 +38,7 @@
 ## ⚡ My Stats 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=html,typescript&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=Dart,Kotlin,typescript&theme=tokyonight">
 </p>
 
 <br>
