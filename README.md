@@ -1,4 +1,4 @@
-<!-- ### Hi there, I am Nikhil.👋 -->
+<!-- ### Hi there, I am Nikhil.👋   <! --       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=Dart,Kotlin,typescript&theme=tokyonight"> --> 
 ![Hello, my name is Nikhil Web Developer   UI_UX designer](https://user-images.githubusercontent.com/51753810/89323998-31667400-d6a4-11ea-9282-0d20d22c067f.png)
 
 
@@ -38,7 +38,7 @@
 ## ⚡ My Stats 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=imnik-45&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=Dart,Kotlin,typescript&theme=tokyonight">
+ 
 </p>
 
 <br>
