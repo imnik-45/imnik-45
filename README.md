@@ -1,5 +1,5 @@
-<!-- ### Hi there, I am Nikhil.👋   <! --       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=Dart,Kotlin,typescript&theme=tokyonight"> --> 
-![Hello, my name is Nikhil Web Developer   UI_UX designer](https://user-images.githubusercontent.com/51753810/89323998-31667400-d6a4-11ea-9282-0d20d22c067f.png)
+<!-- ### Hi there, I am Nikhil.👋   <! --       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=imnik-45&hide=Dart,Kotlin,typescript&theme=tokyonight">
+ 
 
 
 <div align="center">
@@ -11,9 +11,8 @@
 </div>
 
 
-<br> 
-
-
+--> 
+![Hello, my name is Nikhil Web Developer   UI_UX designer](https://user-images.githubusercontent.com/51753810/89323998-31667400-d6a4-11ea-9282-0d20d22c067f.png)
 ## ⚡ Technologies 
 
 <img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
